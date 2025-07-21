@@ -1,0 +1,1 @@
+Bu projede teknofest tarafından düzenlenen sağlıkta yapay zeka yarışmasında klasik derin öğrenme modellerini beraber kullanıp hibrit bir model ile tomografi görüntülerinden bireylerin inme geçirip geçirmediğinin tespiti hedeflenmiştir.
